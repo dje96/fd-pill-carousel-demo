@@ -16,9 +16,13 @@ A SwiftUI demo application showcasing Snowplow tracking with a interactive pill-
 - Xcode 14.0 or later
 - iOS 15.0 or later
 
+## Configuraiton
+
+- This app is configured to send events to Snowplow Micro (http://127.0.0.1:9090)
+- Specify a new collector by editing the "endpoint" setting in Pill_CarouselApp.swift
+
 ## Installation
 
 1. Clone the repository
 2. Open the .xcodeproj file in Xcode
 3. Run the project in Xcode
-# fd-pill-carousel
