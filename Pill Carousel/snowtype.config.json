@@ -1,0 +1,13 @@
+{
+  "igluCentralSchemas": [],
+  "dataStructures": [],
+  "repositories": [],
+  "eventSpecificationIds": [],
+  "dataProductIds": [
+    "9aa8aeb2-4299-4054-9ff2-f177040bebf6"
+  ],
+  "organizationId": "8c1adb92-40c6-4974-84e2-7868dad3a142",
+  "tracker": "snowplow-ios-tracker",
+  "language": "swift",
+  "outpath": "./snowtype"
+}

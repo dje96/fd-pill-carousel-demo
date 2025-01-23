@@ -1,0 +1,15 @@
+{
+  "originHash" : "a41eda016d6b4cd0e7232add879c89b11a8cf0a9e21ee3190b8fb6d7f3fb46c2",
+  "pins" : [
+    {
+      "identity" : "snowplow-ios-tracker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/snowplow/snowplow-ios-tracker",
+      "state" : {
+        "revision" : "c105d9f8b875f2442512c3c8b1c8bbe9c209a302",
+        "version" : "6.0.9"
+      }
+    }
+  ],
+  "version" : 3
+}

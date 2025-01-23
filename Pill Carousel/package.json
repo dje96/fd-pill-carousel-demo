@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@snowplow/snowtype": "^0.10.2"
+  }
+}
